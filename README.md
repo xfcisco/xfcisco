@@ -1,7 +1,6 @@
 <!--**xfcisco/xfcisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+### xfcisco
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with personal projects to make them scalable
