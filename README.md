@@ -1,11 +1,13 @@
 # xfcisco
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/WM-i3wm-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Nodejs-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
 - 🌱 I’m currently learning C++
