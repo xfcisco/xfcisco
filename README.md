@@ -5,4 +5,4 @@
 - 📫 How to reach me: Discord (u8)xfc15c0++#0295
 
 
-![xfcisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=onedark)
+![xfcisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=cobalt)
