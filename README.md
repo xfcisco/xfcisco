@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with personal projects to make them scalable
-- 📫 How to reach me: Discord ~/xfc15c0#0295
+- 📫 How to reach me: Discord aeterne satiatus#7467
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&layout=compact&theme=cobalt)
 
