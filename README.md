@@ -47,10 +47,10 @@
         <td>
             <table style="border: 0px solid black">
                 <tr>
-                    <td><img width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" /></td>
+                    <td><img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" /></td>
                 </tr>
                 <tr>
-                    <td><img width="450px" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" /></td>
+                    <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" /></td>
                 </tr>
             </table>
         </td>
