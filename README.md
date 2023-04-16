@@ -13,21 +13,25 @@
 <p align="center">
     <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/WM-i3-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logoColor=white&color=blue" />
+    
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-Nodejs-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-C/C++-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Golang-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Zig-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Crystal-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-NodeJs-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-OCaml-informational?style=for-the-badge&logoColor=white&color=blue" />
 </p>
 
 <br>
 
-- 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
-- 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with personal projects to make them scalable
-- 📫 How to reach me: email `xfc1@pm.me`
+- 🔭 I’m currently working on a proof of concept operating system for tiny devices
+- 🌱 I’m currently learning x86_64 AT&T Assembly + C/C++ + Rust
+- 🤔 I’m looking for help with personal projects to improve them
+- 📫 How to reach me: email `xfc1@pm.me`, but discord is preferred
 
 <br>
 
