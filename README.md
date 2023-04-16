@@ -40,7 +40,8 @@
      <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
 </p>
 
-## Github Trophies: 🏆️
+##
+<h2 align="center">Github Trophies: 🏆️</h1>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=xfcisco&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
