@@ -43,18 +43,13 @@
 ##
 <p align="center">
 <table align="center">
-            <td>
-                <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" />
+    <tr>
+            <td><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" />
             </td>
-            <td>
-                <tr>
-                    <img width="300px" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" />
-                </tr>
-                <tr>
-                    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
-                </tr>
-            </td>
-    </table>
+            <td><tr><img width="300px" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" /></tr>
+<tr><img width="300px" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" /></tr></td>
+    </tr>
+</table>
 </p>
 
 ## Github Trophies: 🏆️
