@@ -51,11 +51,9 @@
                 <tr>
                     <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" />
                 </tr>
-                
                 <tr>
                     <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
                 </tr>
-                
             </td>
         </tr>
     </table>
