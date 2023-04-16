@@ -8,16 +8,18 @@
         <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge" /></a>
 </p>
 
+##
+
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=blue&color=black" />
-    <img src="https://img.shields.io/badge/WM-i3-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Language-Nodejs-informational?style=for-the-badge&logoColor=white&color=black" />
-    <img src="https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/WM-i3-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-Nodejs-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logoColor=white&color=blue" />
 </p>
 
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
