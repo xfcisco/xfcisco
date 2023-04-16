@@ -14,6 +14,28 @@
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `xfc1@pm.me`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&layout=compact&theme=cobalt)
 
 ![xfcisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=cobalt)
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
+            </td>
+            <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&layout=compact&theme=cobalt" />
+            </td>
+            <td>
+                <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" />
+            </td>
+        </tr>
+    </table>
+</center>  
+
+---
+
+## Github Trophies: 🏆️
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=xfcisco&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
+</p>
