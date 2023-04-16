@@ -37,7 +37,7 @@
 
 ##
 <p align="center">
-<table>
+<table align="center">
         <tr>
             <td>
                 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
