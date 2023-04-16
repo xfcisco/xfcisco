@@ -35,8 +35,6 @@
      <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
 </p>
 
-<br>
-
 ##
 <center>
     <table>
