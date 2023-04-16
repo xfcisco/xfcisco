@@ -15,7 +15,6 @@
 - 📫 How to reach me: email `xfc1@pm.me`
 
 
-![xfcisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=cobalt)
 <center>
     <table>
         <tr>
@@ -23,7 +22,7 @@
                 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
             </td>
             <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&layout=compact&theme=cobalt" />
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&layout=compact&theme=react" />
             </td>
             <td>
                 <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" />
