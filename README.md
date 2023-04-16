@@ -1,6 +1,6 @@
 # xfcisco
 ![](https://img.shields.io/badge/OS-Arco-informational?style=flat&logoColor=white&color=#57BDDA)
-![](https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=#9147FF)
+![](https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=#57BDDA)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logoColor=white&color=#9147FF)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logoColor=white&color=#9147FF)
@@ -40,3 +40,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=xfcisco&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
 </p>
 ---
+
