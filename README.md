@@ -1,4 +1,11 @@
-# xfcisco
+<h1 align="center">Hi 👋, I'm xfcisco</h1>
+<h3 align="center">An Embedded Systems Developer & Mathematician</h3>
+
+<p align="center">
+    <a href="https://discord.gg/BJtTBNYHpp" alt="Programming and Linux Community">
+        <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/>
+</p>
+    
 ![](https://img.shields.io/badge/OS-Arco-informational?style=flat&logoColor=white&color=#57BDDA)
 ![](https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=#57BDDA)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logoColor=white&color=#9147FF)
@@ -39,5 +46,3 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=xfcisco&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
 </p>
----
-
