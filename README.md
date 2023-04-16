@@ -32,7 +32,7 @@
     <table>
         <tr>
             <td>
-                <img width="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&theme=react" />
+                <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" />
             </td>
         <tr>
     </table>
@@ -43,5 +43,5 @@
 ## Github Trophies: 🏆️
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=xfcisco&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=xfcisco&theme=react&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
 </p>
