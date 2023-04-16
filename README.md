@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm xfcisco
-    <h3 align="center">An Embedded Systems Developer & Mathematician</h3>
-</h1>
+<h1 align="center">Hi 👋, I'm xfcisco</h1>
+<h3 align="center">An Embedded Systems Developer & Mathematician</h3>
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCfhyTQpimu5Bp8Z4Q1rho1A?sub_confirmation=1" alt="Youtube Channel">
@@ -23,16 +22,16 @@
     <img src="https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logoColor=white&color=blue" />
 </p>
 
-<hr>
-<hr>
+<br>
+<br>
+<br>
 
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `xfc1@pm.me`
 
-<hr>
-<hr>
+
 ##
 <center>
     <table>
