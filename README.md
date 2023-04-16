@@ -42,10 +42,10 @@
 
 ##
 <p align="center">
-<table align="center" border="0px">
+<table align="center" border="none">
         <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" /></td>
         <td>
-            <table border="0px">
+            <table border="none">
                 <tr>
                     <td><img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=xfcisco&theme=react&hide_border=true" /></td>
                 </tr>
