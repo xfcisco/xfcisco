@@ -43,7 +43,6 @@
 ##
 <p align="center">
 <table align="center">
-        <tr>
             <td>
                 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" />
             </td>
@@ -55,7 +54,6 @@
                     <img width="300px" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
                 </tr>
             </td>
-        </tr>
     </table>
 </p>
 
