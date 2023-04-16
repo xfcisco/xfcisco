@@ -23,6 +23,9 @@
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `xfc1@pm.me`
 
+<p align="center">
+    ![](https://dcbadge.vercel.app/api/shield/466533081327861770)
+</p>
 ---
 <center>
     <table>
