@@ -30,7 +30,11 @@
 
 <center>
     <table>
-        <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&theme=react" />
+        <tr>
+            <td>
+                <img width="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&theme=react" />
+            </td>
+        <tr>
     </table>
 </center>
 
