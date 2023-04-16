@@ -9,14 +9,22 @@
 </p>
 
 <p align="center">
-    ![](https://img.shields.io/badge/OS-Arco-informational?style=flat&logoColor=white&color=#57BDDA
-    ![](https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=#57BDDA
-    ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logoColor=white&color=#9147FF
-    ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logoColor=white&color=#9147FF
-    ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logoColor=white&color=#9147FF
+    <img src="https://img.shields.io/badge/OS-Arco-informational?style=flat&logoColor=white&color=#57BDDA" />
+    
+    <img src="https://img.shields.io/badge/WM-dwm-informational?style=flat&logoColor=white&color=#57BDDA" />
+    
+    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logoColor=white&color=#9147FF" />
+    
+    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logoColor=white&color=#9147FF" />
+    
+    <img src="https://img.shields.io/badge/Language-C++-informational?style=flat&logoColor=white&color=#9147FF" />
+    
     <img src="https://img.shields.io/badge/Language-Rust-informational?style=flat&logoColor=white&color=#9147FF" />
+    
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=#9147FF" />
+    
     <img src="https://img.shields.io/badge/Language-Nodejs-informational?style=flat&logoColor=white&color=#9147FF" />
+    
     <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logoColor=white&color=#9147FF" />
 </p>
 
