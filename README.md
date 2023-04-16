@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xfcisco</h1>
+<h1 align="center">Hi, I'm xfcisco 👋</h1>
 <p align="center">
      <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
 </p>
@@ -26,7 +26,6 @@
 </p>
 
 <br>
-<br>
 
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
 - 🌱 I’m currently learning C++
@@ -34,9 +33,6 @@
 - 📫 How to reach me: email `xfc1@pm.me`
 
 <br>
-<br>
-<br>
-
 
 ##
 <center>
