@@ -11,7 +11,7 @@
 ##
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=white&color=darkpurple" />
+    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=white&color=darkviolet" />
     <img src="https://img.shields.io/badge/WM-i3-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
