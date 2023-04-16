@@ -27,11 +27,13 @@
 
 <br>
 
+<p align="center">
 - 🔭 I’m currently working on a proof of concept operating system for tiny devices
 - 🌱 I’m currently learning x86_64 AT&T Assembly + C/C++ + Rust
 - 🤔 I’m looking for help with personal projects to improve them
 - 📫 How to reach me: email me at `xfc1@pm.me`, but [Discord](https://discord.com/users/466533081327861770) is preferred
-
+</p>
+    
 <br>
 
 <p align="center">
