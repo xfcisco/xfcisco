@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/WM-i3-informational?style=for-the-badge&logoColor=white&color=black" />
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=black" />
     <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logoColor=white&color=black" />
