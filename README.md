@@ -24,7 +24,7 @@
 - 📫 How to reach me: email `xfc1@pm.me`
 
 <p align="center">
-    ![](https://dcbadge.vercel.app/api/shield/466533081327861770)
+     <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
 </p>
 ---
 <center>
