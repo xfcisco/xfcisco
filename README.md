@@ -36,8 +36,8 @@
 </p>
 
 ##
-<center>
-    <table>
+<p align="center">
+<table>
         <tr>
             <td>
                 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=xfcisco&show_icons=true&theme=react&hide_border=true" />
@@ -47,11 +47,11 @@
             </td>
         </tr>
     </table>
-</center>
+</p>
 
-<center>
+<p align="center">
     <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" />
-</center>
+</p>
 
 ## Github Trophies: 🏆️
 
