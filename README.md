@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm xfcisco</h1>
+<p align="center">
+     <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
+</p>
 <h3 align="center">An Embedded Systems Developer & Mathematician</h3>
 
 <p align="center">
@@ -24,12 +27,15 @@
 
 <br>
 <br>
-<br>
 
 - 🔭 I’m currently working on Spotfetch(C++ spotify fetch tool)
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with personal projects to make them scalable
 - 📫 How to reach me: email `xfc1@pm.me`
+
+<br>
+<br>
+<br>
 
 
 ##
@@ -49,11 +55,6 @@
 <center>
     <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfcisco&hide_border=true&show_icons=true&no-frame=true&theme=react" />
 </center>
-
-##
-<p align="center">
-     <img src="https://dcbadge.vercel.app/api/shield/466533081327861770" />
-</p>
 
 ## Github Trophies: 🏆️
 
