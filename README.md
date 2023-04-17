@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm xfcisco 👋</h1>
-<h3 align="center">An Embedded Systems Developer & Mathematician</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ac437+PhoenixVGA+9x14&size=40&pause=1000&color=7187EA&center=true&width=473&lines=Hi%2C+I'm+xfcisco+%F0%9F%91%8B;Embedded+Systems+Developer+%26+Mathematician" alt="Typing SVG" /></a>
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCfhyTQpimu5Bp8Z4Q1rho1A?sub_confirmation=1" alt="Youtube Channel">
