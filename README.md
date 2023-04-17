@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=xfcisco" />
+  <img width="600" src="https://stats.hyochan.dev/api/github-stats?login=xfcisco" />
 </p>
 
 ##
