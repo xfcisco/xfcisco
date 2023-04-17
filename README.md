@@ -26,6 +26,7 @@
 </p>
 
 <br>
+<br>
 
 <p align="center">
 🔭 I’m currently working on a proof of concept operating system for tiny devices <br>
@@ -33,6 +34,8 @@
 🤔 I’m looking for help with personal projects to improve them <br>
 📫 How to reach me: email me at <a href = "mailto://xfc1@pm.me">xfc1@pm.me</a>, but <a href="https://discord.com/users/466533081327861770">Discord</a> is preferred <br>
 </p>
+
+<br>
 
 <p align="center">
   <img width="600" src="https://stats.hyochan.dev/api/github-stats?login=xfcisco" />
