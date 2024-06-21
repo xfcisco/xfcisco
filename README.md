@@ -12,8 +12,8 @@
 ##
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-ArcoLinux-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
-    <img src="https://img.shields.io/badge/WM-i3-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
+    <img src="https://img.shields.io/badge/OS-Arch-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
+    <img src="https://img.shields.io/badge/WM-Hyprland-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logoColor=white&color=darkcyan" /><br>
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
